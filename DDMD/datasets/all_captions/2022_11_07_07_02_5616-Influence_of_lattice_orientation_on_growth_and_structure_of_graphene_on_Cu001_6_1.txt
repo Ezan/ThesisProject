@@ -1,0 +1,1 @@
+Figure 3. The proportion of graphene domains with their fast-growth direction toward a C<10> or C<11> lattice direction, as a function of the graphene rotation angle. For small rotations, fast growth is equally likely to be toward a C<11> or C<10> direction.

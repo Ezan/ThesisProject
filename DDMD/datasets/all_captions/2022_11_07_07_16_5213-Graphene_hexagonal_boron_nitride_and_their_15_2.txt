@@ -1,0 +1,1 @@
+Fig. 37 Graphene/h-BN devices and the test chart. (a) AFM image of graphene/h-BN heterostructure. (b) Histogram of the height distri- bution measured by AFM for graphene, h-BN and SiO2. Resistance versus applied gate voltage for monolayer graphene (c) and bilayer graphene (d) on h-BN.204

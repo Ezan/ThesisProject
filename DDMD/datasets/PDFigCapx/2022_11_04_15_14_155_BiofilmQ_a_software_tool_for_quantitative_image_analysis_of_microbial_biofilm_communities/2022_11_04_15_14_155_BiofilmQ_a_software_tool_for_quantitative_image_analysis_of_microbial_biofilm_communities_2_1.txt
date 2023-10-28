@@ -1,0 +1,1 @@
+Figure 1: Overview of the image processing and parameter quantification concept of BiofilmQ. a, For a 3D biofilm image, the BiofilmQ image processing pipeline is illustrated: The original raw fluorescence image is filtered

@@ -1,0 +1,1 @@
+Figure 1a), representing the corrosion reaction of copper (Cu0 f Cu2þ þ 2eÀ), was chosen to quantify the passivation eﬀect. The peak current is proportional to the charge exchanged, and we observe a decrease of only 20% upon passivation with one layer graphene (Cu/1LG).

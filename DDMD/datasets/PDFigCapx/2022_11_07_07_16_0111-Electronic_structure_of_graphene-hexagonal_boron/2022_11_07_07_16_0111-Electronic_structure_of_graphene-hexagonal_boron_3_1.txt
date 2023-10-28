@@ -1,0 +1,1 @@
+Figure 1. a, Working principle of NanoARPES. b, Valence band density of states of G/h-NB. The grey area indicates the energy window from which the valence band density of states images are integrated. c, Optical image of G/h-BN heterostructure. d, e, NanoARPES image of the valence band intensity.

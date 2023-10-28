@@ -1,0 +1,1 @@
+Fig 2: (a) A bioﬁlm image of a dental plaque sample from from a human donor: RGB image - taxa relevant to the multilayered concob arrangements are Corynebacterium (Pink), Strepto- coccus (Green), Porphyromonas (Blue) and Pasteurellaceae (Orange); (b) post-segmentation spatial locations of the centroids of cells identiﬁed via genus-speciﬁc probes, as indicated

@@ -1,0 +1,1 @@
+Fig. 3. Multi-level Thresholding Segmentation: (a) Optical image segmented manually. (b) Histogram of (a). (c) Optical image segmented automatically. (d) Histogram of (c).

@@ -1,0 +1,1 @@
+Fig. 1. Correlation plots between thresholds obtained manually and automatically us- ing diﬀerent criteria: (a) ENTROPY, (b) MINERROR, and (c) OTSU

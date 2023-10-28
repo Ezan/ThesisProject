@@ -1,0 +1,1 @@
+Fig 4: (a) The same image as in Figure 2, displaying channels corresponding to Pasteurel- laceae (Orange) and Streptococcus (Green); and (b) a cartoon image illustrating the clus- tering of Pasteurellaceae around Streptococcus. Hiding the pink Corynebacterium channels highlights the outer layer in the multilayer arrangements.

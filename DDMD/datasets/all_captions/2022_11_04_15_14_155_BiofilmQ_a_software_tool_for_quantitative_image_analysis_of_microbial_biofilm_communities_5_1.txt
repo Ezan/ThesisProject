@@ -1,0 +1,1 @@
+Figure 3: Overview of the BiofilmQ visualization process and capabilities. a, Screenshot showing several key elements of the graphical user interface for visualization, depicting how to choose the axis of figures to be plotted,

@@ -1,0 +1,1 @@
+Fig 1: A multi-layered parent-offspring structure. The green dots behave as offspring to the pink dot while the orange dots behave as offspring to the green dots

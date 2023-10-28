@@ -1,0 +1,1 @@
+Figure 5. Kriging maps of the spatially autocorrelated intensity of aggregated colonization behavior of the microbial assemblages in the freshwater biofilm landscapes developed on (a) plain glass and (b) polystyrene. The legend shows the stepped scale of pseudocolored bins for the range of CMEIAS cluster index values in each landscape.
