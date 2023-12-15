@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Extracted Papers</title>
+</head>
+<body>
+    <table border="1">
+
+        {% for paper in paperList[:10] %}
+           <td> {{ data|safe }} </td>
+        {% endfor %}
+
+    </table>
+</body>
+</html>

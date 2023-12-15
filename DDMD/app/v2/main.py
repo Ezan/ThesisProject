@@ -16,3 +16,6 @@ def paper():
 
 if __name__=="__main__":
     app.run(debug = True)
+
+
+# flask --app ./DDMD/app/v2/main.py --debug run
